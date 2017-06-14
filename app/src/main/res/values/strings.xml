@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resturant">Resturants</string>
+    <string name="schools">Schools</string>
+    <string name="hospital">Hospitals</string>
+    <string name="hint">Insert Location</string>
+
+
+</resources>
