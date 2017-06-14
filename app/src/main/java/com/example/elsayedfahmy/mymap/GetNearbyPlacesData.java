@@ -30,7 +30,7 @@ public class GetNearbyPlacesData extends AsyncTask<Object, String, String>  {
     GoogleMap mMap;
     String url;
 
-
+///
     @Override
     protected String doInBackground(Object... params) {
 

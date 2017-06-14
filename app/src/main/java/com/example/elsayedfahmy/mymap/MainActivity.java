@@ -159,7 +159,7 @@ Marker marker;
             checkLocationPermission();
             googleMap.setMyLocationEnabled(true);
         }
-        //    buildGoogleApiClient();
+        //  //  buildGoogleApiClient();
         googleMap.setMyLocationEnabled(true);
         googleMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
             @Override

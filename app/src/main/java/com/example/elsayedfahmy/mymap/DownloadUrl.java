@@ -14,7 +14,7 @@ import java.net.URL;
  */
 
 public class DownloadUrl {
-
+///
     public String readUrl(String strUrl) throws IOException {
         String data = "";
         InputStream iStream = null;
